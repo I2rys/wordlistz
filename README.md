@@ -25,5 +25,8 @@ NPM Packages:
  - max_words - The maximum amount of the words to generate.
  - wgsp - The starting point of the generating(e.g abcde, 123456).
 
+## Note
+The results will be place in the output.txt
+
 ## License
 MIT © I2rys
