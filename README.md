@@ -4,7 +4,7 @@
 	<a href="https://github.com/I2rys/WordListz/blob/main/LICENSE"><img src="https://img.shields.io/github/license/I2rys/WordListz?style=flat-square"></img></a>
 	<a href="https://github.com/I2rys/WordListz"><img src="https://bettercodehub.com/edge/badge/I2rys/WordListz?branch=main"></a>
 	<a href="https://github.com/I2rys/WordListz/issues"><img src="https://img.shields.io/github/issues/I2rys/WordListz.svg"></img></a>
-	<a href="https://github.com/I2rys/WordListz"><img src="https://img.shields.io/badge/version-1.0.0-orange"></img></a>
+	<a href="https://github.com/I2rys/WordListz"><img src="https://img.shields.io/badge/version-1.0.1-orange"></img></a>
 	<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js"></img></a>
 </p>
 
